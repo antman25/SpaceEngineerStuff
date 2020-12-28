@@ -10,8 +10,11 @@ SubFresh 0 noBar noHeading
 Nutrients 0 noBar noHeading
 Echo
 Echo ########### Crops ########### 
-Seeds 0 noBar noHeading
 Fertilizer 0 noBar noHeading
 Ingot/Carbon 0 noBar noHeading
 Ingot/Phosphorus 0 noBar noHeading
 Ingot/Potassium 0 noBar noHeading
+Potato 0 noBar noHeading
+Carrots 0 noBar noHeading
+Cucumbers 0 noBar noHeading
+Tomatoes 0 noBar noHeading
