@@ -1,0 +1,17 @@
+@0 !IIM-inventory
+Echo Daily Needs Survial Kit Info
+Echo
+Echo
+Echo ######## Food/Drink ##########
+Food 0 noBar noHeading
+Echo
+Echo ######## Hydroponics #########
+SubFresh 0 noBar noHeading
+Nutrients 0 noBar noHeading
+Echo
+Echo ########### Crops ########### 
+Seeds 0 noBar noHeading
+Fertilizer 0 noBar noHeading
+Ingot/Carbon 0 noBar noHeading
+Ingot/Phosphorus 0 noBar noHeading
+Ingot/Potassium 0 noBar noHeading
