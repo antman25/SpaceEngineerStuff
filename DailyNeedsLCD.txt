@@ -1,7 +1,4 @@
 @0 !IIM-inventory
-Echo Daily Needs Survial Kit Info
-Echo
-Echo
 Echo ######## Food/Drink ##########
 Food 0 noBar noHeading
 Echo
