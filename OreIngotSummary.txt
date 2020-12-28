@@ -10,6 +10,7 @@ Echo ############## Ingot Summary ###########
 Ingot/Iron 0 noBar noHeading
 Ingot/Nickel 0 noBar noHeading
 Ingot/Silicon 0 noBar noHeading
+Ingot/Magnesium 0 noBar noHeading
 Ingot/Cobalt 0 noBar noHeading
 Ingot/Silver 0 noBar noHeading
 Ingot/Gold 0 noBar noHeading
