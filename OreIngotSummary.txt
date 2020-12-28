@@ -14,3 +14,6 @@ Ingot/Magnesium 0 noBar noHeading
 Ingot/Cobalt 0 noBar noHeading
 Ingot/Silver 0 noBar noHeading
 Ingot/Gold 0 noBar noHeading
+Echo
+Echo ################### Ice  ###############
+Ore/Ice 750000 noBar noHeading
