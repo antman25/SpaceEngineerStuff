@@ -1,5 +1,12 @@
 @0 !IIM-inventory
-Echo ############## Ore and Ingot Summary ###########
+Echo ############## Ore Summary ###########
+Ore/Stone 0 noBar noHeading
+Ore/Iron 0 noBar noHeading
+Ore/Gold 0 noBar noHeading
+Ore/Silver 0 noBar noHeading
+Ore/Magnesium 0 noBar noHeading
+Echo
+Echo ############## Ingot Summary ###########
 Ingot/Iron 0 noBar noHeading
 Ingot/Nickel 0 noBar noHeading
 Ingot/Silicon 0 noBar noHeading
