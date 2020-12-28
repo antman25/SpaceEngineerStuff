@@ -3,6 +3,7 @@ Echo ######## Food/Drink ##########
 Food 0 noBar noHeading
 Meat 0 noBar noHeading
 Organic 0 noBar noHeading
+GreyWater 0 noBar noHeading
 Echo
 Echo ######## Hydroponics #########
 SubFresh 0 noBar noHeading
