@@ -2,4 +2,4 @@ cargox
 echo
 tanks * hydrogen
 echo
-invlistx tech +enhanced_tech, proficient_tech_gen, proficient_tech_cap, elite_tech_gen, elite_tech_cap<
+invlistx  Components +enhanced_tech, proficient_tech_gen, proficient_tech_cap, elite_tech_gen, elite_tech_cap
